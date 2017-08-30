@@ -1,7 +1,7 @@
 ## Review
 
-- Do some review problems, cover:
-  - *
+- Some review::
+  - `*`
   - Order by
   - Limit
   - sum(), count(), etc...
@@ -12,9 +12,9 @@
   - INSERT INTO
   - DELETE 
       DELETE FROM <Table name>
-      WHERE <condition>;
+      WHERE -condition-;
     - Always do a select first
-  - UPDATE <table name> SET <column name> = <new value>
+  - UPDATE -table name- SET -column name- = -new value-
   - DISTINCT
 
 ## ALTER TABLE
